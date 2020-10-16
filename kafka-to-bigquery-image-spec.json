@@ -1,0 +1,6 @@
+{
+    "image": "gcr.io/warm-actor-291222/mykafkaimage",
+    "sdk_info": {
+      "language": "JAVA"
+    }
+}
